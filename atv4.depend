@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701461422 source:c:\users\rafae\documents\codeblocks\atv4\atv4\main.c
+	<stdio.h>
+	<string.h>
+

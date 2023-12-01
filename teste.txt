@@ -1,0 +1,10 @@
+natalTamanho da string: 5
+String invertida: latan
+
+Tamanho da string: 26
+String invertida: 
+5 :gnirts ad ohnamaTlatan
+
+Tamanho da string: 26
+String invertida: 
+5 :gnirts ad ohnamaTlatan
